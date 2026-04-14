@@ -1993,7 +1993,7 @@ export const libs: Lib[] = [
     language: 'Swift',
     apiVer: 10,
     gwVer: 10,
-    voiceVer: '4 (Experimental)',
+    voiceVer: '-',
     slashCommands: 'Yes',
     buttons: 'Yes',
     selectMenus: 'Yes',
