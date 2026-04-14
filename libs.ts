@@ -95,7 +95,7 @@ export const libs: Lib[] = [
 		language: 'C#',
 		apiVer: 10,
 		gwVer: 10,
-		voiceVer: '3',
+		voiceVer: 'E2EE',
 		slashCommands: 'Yes',
 		buttons: 'Yes',
 		selectMenus: 'Yes',
@@ -151,7 +151,7 @@ export const libs: Lib[] = [
 		language: 'C#',
 		apiVer: 10,
 		gwVer: 10,
-		voiceVer: 8,
+		voiceVer: 'E2EE',
 		slashCommands: 'Yes',
 		buttons: 'Yes',
 		selectMenus: 'Yes',
@@ -601,7 +601,7 @@ export const libs: Lib[] = [
 		language: 'Go',
 		apiVer: 10,
 		gwVer: 10,
-		voiceVer: 4,
+		voiceVer: 'E2EE',
 		slashCommands: 'Yes',
 		buttons: 'Yes',
 		selectMenus: 'Yes',
@@ -621,7 +621,7 @@ export const libs: Lib[] = [
 		polls: 'Yes',
 		forwarding: 'Yes',
 		appEmoji: 'Yes',
-		componentsV2: 'Dev Version'
+		componentsV2: 'Yes'
 	},
 	{
 		name: 'Disgord 🪦',
@@ -1117,7 +1117,7 @@ export const libs: Lib[] = [
 		language: 'JavaScript',
 		apiVer: 10,
 		gwVer: 10,
-		voiceVer: 4,
+		voiceVer: 'E2EE',
 		slashCommands: 'Yes',
 		buttons: 'Yes',
 		selectMenus: 'Yes',
@@ -1337,15 +1337,9 @@ export const libs: Lib[] = [
 			text: 'Has a PR',
 			url: 'https://github.com/kordlib/kord/pull/933'
 		},
-		forwarding: {
-			text: 'Has a PR',
-			url: 'https://github.com/kordlib/kord/pull/972'
-		},
+		forwarding: 'Yes',
 		appEmoji: 'Dev Version',
-		componentsV2: {
-			text: 'Has a PR',
-			url: 'https://github.com/kordlib/kord/pull/1009'
-		}
+		componentsV2: 'Yes'
 	},
 	{
 		name: 'Discordia',
@@ -1524,7 +1518,7 @@ export const libs: Lib[] = [
 		language: 'Python',
 		apiVer: 10,
 		gwVer: 10,
-		voiceVer: 8,
+		voiceVer: 'E2EE',
 		slashCommands: 'Yes',
 		buttons: 'Yes',
 		selectMenus: 'Yes',
@@ -1754,7 +1748,7 @@ export const libs: Lib[] = [
 		language: 'Python',
 		apiVer: 10,
 		gwVer: 10,
-		voiceVer: 4,
+		voiceVer: 8,
 		slashCommands: 'Yes',
 		buttons: 'Yes',
 		selectMenus: 'Yes',
